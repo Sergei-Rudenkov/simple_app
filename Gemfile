@@ -26,7 +26,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
-
+gem 'bcrypt-ruby', '3.0.1'
 group :test do
   # Pretty printed test output
   gem 'turn', :require => false
